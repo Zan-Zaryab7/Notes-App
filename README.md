@@ -1,16 +1,20 @@
-# notey_task
+# Notes App
+## Overview:
+  Notes App is a mobile application built using Flutter, which allows users to create, edit, delete, and organize their notes. Users can share their notes with others through email, and both users will receive notifications about the shared notes. Additionally, users can   search their notes and shared notes efficiently.
 
-A new Flutter project.
+## Key Features:
+- Create, Edit, and Delete Notes: Easily manage personal notes.
+- Share Notes via Email: Share notes with other users by entering their email address. Both users will be notified about shared notes.
+- Real-Time Synchronization: Sync notes with Firebase Firestore, ensuring real-time data updates across all devices.
+- Search Notes: Quickly search through your notes and shared notes.
+- Notifications: Get notified when a note is shared with you or when there's an update to a shared note.
 
-## Getting Started
+## Getting Started:
+  These instructions will help you set up and run the project locally.
+  
+Prerequisites
+Before you begin, ensure you have the following installed:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter SDK.
+- Firebase Project for integrating authentication, Firestore, and notifications.
+- Dart SDK (comes with Flutter).
