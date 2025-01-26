@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "595745076146",
+    "project_id": "notey-task",
+    "storage_bucket": "notey-task.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595745076146:android:d15a57d4283331b1c4aaab",
+        "android_client_info": {
+          "package_name": "com.example.notey_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp625lw4dVCTP392KF5skzPJ1G6_PHZlk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
